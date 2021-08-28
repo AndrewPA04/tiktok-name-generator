@@ -15,3 +15,4 @@ def generator():
             print(f"[taken] {generatedName}")
         else:
             print(f"[Not taken] {generatedName}")
+generator()
